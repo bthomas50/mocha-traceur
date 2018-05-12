@@ -13,6 +13,6 @@
   "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
   "license": "MIT",
   "dependencies": {
-    "traceur-runner": "^1.0.2"
+    "traceur-runner": "https://github.com/bthomas50/traceur-runner#master"
   }
 }
